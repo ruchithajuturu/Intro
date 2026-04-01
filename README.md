@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ruchithajuturu
-- 👀 I’m interested and passionate about "I am a passionate and innovative professional with a deep interest in leveraging technology to drive advancements in artificial intelligence, deep learning, and data-driven solutions"
-- 🌱 I’m currently learning MongoDB and React. Besides technical skills, I explore a new art form every week....
-- 💞️ I’m looking to collaborate on innovative projects in data engineering...
-- 📫 How to reach me to rjuturu@gamil.com...
-- 😄 Pronouns:she/her ...
-- ⚡ Fun fact: Bananas are berries, but strawberries aren't! 🍌🍓...
+### Hi, I'm Ruchitha Juturu 👋
 
-<!---
-ruchithajuturu/ruchithajuturu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Aspiring **Data Engineer** focused on building scalable ETL pipelines and cloud-based data solutions
+* Strong experience in **Python, SQL, PySpark, AWS, Tableau, and AI-assisted development tools (GitHub Copilot, Claude AI)** with hands-on project development
+* Passionate about **data engineering, big data processing, and analytics-driven decision making**
+* Currently advancing skills in **AWS Data Engineering, Cloud Architecture, and AI-powered data workflows**
+* Open to **Data Engineer / AWS Data Engineer opportunities** and collaborative projects
+* 📫 Reach me at: Email: rjuturu03@gmail.com | linkedin.com/in/ruchithajuturu
+* ⚡ Fun fact: I enjoy turning messy data into meaningful insights and clean dashboards 📊
